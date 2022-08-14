@@ -1,0 +1,21 @@
+Teams:
+  Signs:
+    main:
+  blue:
+    world:
+      locationofspawn:
+      locationofbanner:
+  red:
+    world:
+      locationofspawn:
+      locationofbanner:
+Min:
+Max:
+Pnj:
+Spawn:
+  world:
+  x:
+  y:
+  z:
+  pitch:
+  yaw:
